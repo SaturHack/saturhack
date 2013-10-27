@@ -129,6 +129,18 @@ blockquote img{
 	padding: 15px;
 	background-color: #e9e5dc;
 }
+/*-- =policies styles --*/
+
+body.policies header {
+  background: none;
+  padding: 0;
+}
+
+body.policies article {
+  background: none;
+  padding: 0;
+}
+
 /*-- =twitter widget styles override --*/
 
 #twtr-widget-1 .twtr-timeline{
